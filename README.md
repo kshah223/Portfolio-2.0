@@ -55,17 +55,18 @@ To run this project locally, follow these steps:
    git clone https://github.com/kshah223/portfolio-2.0.git
    cd portfolio-2.0
    ```
-2. **Install dependencies:
+2. **Install dependencies**:
 
    ```bash
    npm install
    ```
-3. **Start the development server:
+3. **Start the development server**:
 
    ```bash
    npm start
    ```
-4. **Visit the site:
+4. **Visit the site**:
+   
 Open http://localhost:3000 in your web browser to view the site locally.
 
 Usage
