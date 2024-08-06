@@ -69,28 +69,34 @@ To run this project locally, follow these steps:
    
    Open http://localhost:3000 in your web browser to view the site locally.
 
-Usage
-Home Page: Introduction and brief overview of my skills and interests.
-About Page: Detailed background about my professional journey and aspirations.
-Experience: Timeline of my professional work experience.
-Projects: Portfolio of my projects with links to GitHub repositories.
-Education: Information about my academic background and achievements.
-Certifications: List of certifications I've earned, showcasing my continuous learning.
-Skills: Summary of my technical skills, including languages, tools, and concepts.
-Contact: Contact form and social media links for reaching out to me.
-Contributing
+## Usage
+- **Home Page**: Introduction and brief overview of my skills and interests.
+- **About Page**: Detailed background about my professional journey and aspirations.
+- **Experience**: Timeline of my professional work experience.
+- **Projects**: Portfolio of my projects with links to GitHub repositories.
+- **Education**: Information about my academic background and achievements.
+- **Certifications**: List of certifications I've earned, showcasing my continuous learning.
+- **Skills**: Summary of my technical skills, including languages, tools, and concepts.
+- **Contact**: Contact form and social media links for reaching out to me.
+
+## Contributing
+
 Contributions are welcome! If you'd like to collaborate or suggest improvements, please follow these steps:
 
 Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/new-feature).
-Open a pull request.
-Contact
+1. Create a new branch (git checkout -b feature/new-feature).
+2. Commit your changes (git commit -m 'Add some feature').
+3. Push to the branch (git push origin feature/new-feature).
+4. Open a pull request.
+
+## Contact
+
 If you have any questions or would like to discuss potential opportunities, please feel free to reach out:
 
-Email: kalps358@gmail.com
-LinkedIn: linkedin.com/in/kalpkumarshah
-GitHub: github.com/kshah223
-License
+- **Email**: kalps358@gmail.com
+- **LinkedIn**: linkedin.com/in/kalpkumarshah
+- **GitHub**: github.com/kshah223
+
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
