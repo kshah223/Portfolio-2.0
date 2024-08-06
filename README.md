@@ -52,21 +52,20 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/kshah223/KalpkumarPortfolio.git
-   cd KalpkumarPortfolio
+   git clone https://github.com/kshah223/portfolio-2.0.git
+   cd portfolio-2.0
+   ```
+2. **Install dependencies:
 
-Install dependencies:
+   ```bash
+   npm install
+   ```
+3. **Start the development server:
 
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Visit the site:
-
+   ```bash
+   npm start
+   ```
+4. **Visit the site:
 Open http://localhost:3000 in your web browser to view the site locally.
 
 Usage
