@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
    ```
 4. **Visit the site**:
    
-Open http://localhost:3000 in your web browser to view the site locally.
+   Open http://localhost:3000 in your web browser to view the site locally.
 
 Usage
 Home Page: Introduction and brief overview of my skills and interests.
