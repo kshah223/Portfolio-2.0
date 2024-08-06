@@ -1,8 +1,9 @@
-Kalpkumar Shah - Portfolio Website
+# Kalpkumar Shah - Portfolio Website
+
 Welcome to my personal portfolio website! This site showcases my work as a Software Engineer & Full-Stack Developer, highlighting my projects, skills, experience, and education.
 
 
-Table of Contents
+## Table of Contents
 About
 Features
 Live Demo
