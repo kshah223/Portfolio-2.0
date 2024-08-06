@@ -40,10 +40,9 @@ Check out the live demo of my portfolio website:
 ## Technologies Used
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript, Styled Components
-- **Backend**: Node.js, Express.js (optional if applicable)
-- **Deployment**: GitHub Pages
-- **Tools**: Visual Studio Code, Git, npm
-- **Design**: Adobe XD/Figma for design mockups (if applicable)
+- **Deployment**: Google firebase
+- **Tools**: Visual Studio Code, Git, npm, Google firebase, Squarespace domains
+- **Design**: Adobe XD/Figma for design mockups
 
 ## Installation
 
@@ -99,4 +98,4 @@ If you have any questions or would like to discuss potential opportunities, plea
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]{LICENSE} file for details.
