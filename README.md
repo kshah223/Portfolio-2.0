@@ -2,49 +2,59 @@
 
 Welcome to my personal portfolio website! This site showcases my work as a Software Engineer & Full-Stack Developer, highlighting my projects, skills, experience, and education.
 
+![Website Preview](https://yourwebsiteurl.com/screenshot.jpg)
 
 ## Table of Contents
-About
-Features
-Live Demo
-Technologies Used
-Installation
-Usage
-Contributing
-Contact
-License
-About
+
+- [About](#about)
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
+
+## About
+
 This portfolio website is a comprehensive showcase of my journey as a software engineer. It highlights my expertise in full-stack development, cloud computing, and machine learning, along with my passion for crafting efficient and scalable solutions.
 
 The website includes sections for my biography, professional experience, educational background, certifications, projects, and contact information.
 
-Features
-Responsive Design: The site is fully responsive, ensuring a seamless user experience on all devices.
-Interactive UI: Engaging user interface with smooth transitions and modern design elements.
-Project Showcase: A detailed showcase of my projects with descriptions, technologies used, and direct links to GitHub repositories.
-Resume Download: Visitors can easily download my resume directly from the site.
-Contact Form: Users can reach out to me via an integrated contact form.
-Social Media Integration: Links to my LinkedIn and GitHub profiles for easy networking.
-Live Demo
+## Features
+
+- **Responsive Design**: The site is fully responsive, ensuring a seamless user experience on all devices.
+- **Interactive UI**: Engaging user interface with smooth transitions and modern design elements.
+- **Project Showcase**: A detailed showcase of my projects with descriptions, technologies used, and direct links to GitHub repositories.
+- **Resume Download**: Visitors can easily download my resume directly from the site.
+- **Contact Form**: Users can reach out to me via an integrated contact form.
+- **Social Media Integration**: Links to my LinkedIn and GitHub profiles for easy networking.
+
+## Live Demo
+
 Check out the live demo of my portfolio website:
 
-Kalpkumar Shah - Portfolio Website
+[Kalpkumar Shah - Portfolio Website](https://www.kalpkumarshah.com)
 
-Technologies Used
-Frontend: React.js, HTML5, CSS3, JavaScript, Styled Components
-Backend: Node.js, Express.js (optional if applicable)
-Deployment: GitHub Pages
-Tools: Visual Studio Code, Git, npm
-Design: Adobe XD/Figma for design mockups (if applicable)
-Installation
+## Technologies Used
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Styled Components
+- **Backend**: Node.js, Express.js (optional if applicable)
+- **Deployment**: GitHub Pages
+- **Tools**: Visual Studio Code, Git, npm
+- **Design**: Adobe XD/Figma for design mockups (if applicable)
+
+## Installation
+
 To run this project locally, follow these steps:
 
-Clone the repository:
+1. **Clone the repository**:
 
-bash
-Copy code
-git clone https://github.com/kshah223/KalpkumarPortfolio.git
-cd KalpkumarPortfolio
+   ```bash
+   git clone https://github.com/kshah223/KalpkumarPortfolio.git
+   cd KalpkumarPortfolio
+
 Install dependencies:
 
 bash
