@@ -1,0 +1,43 @@
+/* src/styles/Certifications.css */
+#certifications {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  #certifications h2 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  #certifications ul {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    list-style-type: none;
+    padding: 0;
+    margin-left: 20px;
+  }
+  
+  #certifications li {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    #certifications h2 {
+      font-size: 2rem;
+    }
+    
+    #certifications ul {
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+  }
+  

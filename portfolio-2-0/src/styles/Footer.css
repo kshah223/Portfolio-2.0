@@ -1,0 +1,22 @@
+/* src/styles/Footer.css */
+.footer {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%; /* Decrease the width by half */
+    bottom: 0;
+    left: 50%; /* Center the footer horizontally */
+    transform: translateX(-50%); /* Adjust position to truly center the footer */
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer p {
+    color: white; /* Set the text color to white */
+    margin: 0; /* Remove default margin */
+  }
+  

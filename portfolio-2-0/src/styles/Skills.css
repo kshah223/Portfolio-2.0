@@ -1,0 +1,74 @@
+/* src/styles/Skills.css */
+.skills {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    padding: 20px;  /* Increased padding for better spacing */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #333;
+    width: 100%;
+}
+
+.skills h2 {
+    font-size: 2.5rem; /* Larger size for main heading */
+    color: #2c3e50;
+    margin-bottom: 30px; /* More space below the heading */
+    text-align: center;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap; /* Ensures that the boxes can wrap onto the next line as needed */
+    justify-content: space-evenly; /* Distributes space evenly around items */
+    width: 100%; /* Full width of the parent */
+}
+
+.skill-category {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    flex: 1 1 30%; /* Flex grow, flex shrink, and basis set for flexible but bounded sizing */
+    margin: 10px; /* Sufficient margin to prevent touch */
+    max-width: 31%; /* Maximum width percentage to ensure three items per row */
+    min-width: 250px; /* Minimum width for readability */
+}
+
+.skill-category h3 {
+    font-size: 2rem; /* Subheading size */
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 10px; /* Consistent vertical spacing between list items */
+    padding-left: 10px;
+    border-left: 3px solid #3498db; /* Accent line for visual separation */
+    transition: background-color 0.3s, padding-left 0.3s;
+}
+
+ul li:hover {
+    background-color: #f0f2f5; /* Hover effect for interactivity */
+    padding-left: 20px; /* Dynamic indentation on hover */
+}
+
+@media (max-width: 768px) {
+    .skills-container {
+        flex-direction: column;
+        align-items: center; /* Center align items in a single column for small screens */
+    }
+
+    .skill-category {
+        width: 100%; /* Full width in mobile view */
+        max-width: 100%; /* Ensures no overflow on smaller screens */
+    }
+}
