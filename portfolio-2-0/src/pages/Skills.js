@@ -18,6 +18,7 @@ const Skills = () => {
             <li>TypeScript (modern front-end frameworks) (1 year)</li>
             <li>F# (functional programming concepts) (1 year)</li>
             <li>Shell scripting (automation & task scheduling) (1 year)</li>
+            <li>C# (1 year)</li>
           </ul>
         </div>
         <div className="skill-category">
