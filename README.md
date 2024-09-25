@@ -92,7 +92,7 @@ Fork the repository.
 
 If you have any questions or would like to discuss potential opportunities, please feel free to reach out:
 
-- **Email**: kalps358@gmail.com
+- **Email**: kalp.shah.careers@gmail.com
 - **LinkedIn**: linkedin.com/in/kalpkumarshah
 - **GitHub**: github.com/kshah223
 
